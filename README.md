@@ -37,7 +37,7 @@ The project combines macroeconomic theory with empirical analysis using quarterl
 - FRED Database
 
 ---
-##Project Structure
+## Project Structure
 
 | Sheet Name        | Description                                                                                |
 | ----------------- | ------------------------------------------------------------------------------------------ |
